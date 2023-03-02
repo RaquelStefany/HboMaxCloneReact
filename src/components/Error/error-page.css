@@ -1,0 +1,11 @@
+#error{
+    color: white;
+}
+
+#error-page{
+    display: grid;
+    text-align: center;
+    margin: auto;
+    height: 90vh;
+    align-content: center;
+}
